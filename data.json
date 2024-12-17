@@ -1,0 +1,63 @@
+{
+    "soccer": {
+        "name": "Soccer",
+        "subscribers": 800000,
+        "description": "The football subreddit. News, results and discussion",
+        "posts": [
+            {
+                "title": "Marten de Roon to make pizza for more than 1,000 people in Bergamo if Atlanta win the Champions League.",
+                "author": "xtremebala"
+            },
+            {
+                "title": "Stephan Lichtsteiner has retired from professional football",
+                "author": "odd person"
+            },
+            {
+                "title": "OFFICIAL: Dani Parejo signs for Villareal. ",
+                "author": "xtremekala"
+            }
+        ]
+    },
+    "chickens": {
+        "name": "Chickens",
+        "subscribers": 235000,
+        "description": "A place to post your photos , video and questions about chickens",
+        "posts": [
+            {
+                "title": "Came home to a extra chicken in my coop yesterday, assuming a young rooster",
+                "author": "xtremebala",
+                "img": "https://i.pinimg.com/originals/81/24/f6/8124f6914ffd595c6b59ec3aa05eebf8.jpg"
+            },
+            {
+                "title": "Had to kill my first chicken today. Does it get any easier",
+                "author": "sad boi"
+            },
+            {
+                "title": "My five year old chicken set and hatched one baby. I guess she wanted to be mama one more time",
+                "author": "lovelythetiger",
+                "img": "https://preview.redd.it/lervkuis3me51.jpg?width=640&crop=smart&auto=webp&s=6a18ab3c4daa80eccf3449217589b922fa443946"
+            }
+        ]
+    },
+    "mightyharvest": {
+        "name": "Mighty Harvest",
+        "subscribers": 846564,
+        "description": "Feeding many villages and village idiots for 10s of days.",
+        "posts": [
+            {
+                "title": "My first meyer lemon ripped today. I'm so proud of the little guy. Banana for scale",
+                "author": "xtremebala",
+                "img": "https://external-preview.redd.it/j5_-hxxcnhb_IeLFdDAVIQZ3ge13Cq7dz8FA7Au0a3A.jpg?width=640&crop=smart&auto=webp&s=03a962f5e1bb66d5a3d8e30585d31822c1de0965"
+            },
+            {
+                "title": "I think I overestimated the harvest basket size I needed.",
+                "author": "loomy"
+            },
+            {
+                "title": "My mom planted regular carrot seeds and this is what she harvested",
+                "author": "xtremekala",
+                "img": "https://preview.redd.it/my-mom-planted-regular-carrot-seeds-and-this-is-what-she-v0-cl00vpwd4v2e1.jpg?width=640&crop=smart&auto=webp&s=402705b0910e256322fd64885430d5bb4b7156f6"
+            }
+        ]
+    }
+}
